@@ -1,0 +1,9 @@
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_ENVIOS1\201900513_ENVIOS1\bin\Debug\201900513_ENVIOS1.exe
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_ENVIOS1\201900513_ENVIOS1\bin\Debug\201900513_ENVIOS1.pdb
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_ENVIOS1\201900513_ENVIOS1\bin\Debug\201900513_ENVIOS1.xml
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_ENVIOS1\201900513_ENVIOS1\obj\x86\Debug\_201900513_ENVIOS.Form1.resources
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_ENVIOS1\201900513_ENVIOS1\obj\x86\Debug\_201900513_ENVIOS.Resources.resources
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_ENVIOS1\201900513_ENVIOS1\obj\x86\Debug\201900513_ENVIOS1.vbproj.GenerateResource.Cache
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_ENVIOS1\201900513_ENVIOS1\obj\x86\Debug\201900513_ENVIOS1.exe
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_ENVIOS1\201900513_ENVIOS1\obj\x86\Debug\201900513_ENVIOS1.xml
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_ENVIOS1\201900513_ENVIOS1\obj\x86\Debug\201900513_ENVIOS1.pdb
