@@ -1,0 +1,18 @@
+C:\Users\Maxi Villa Nueva\AppData\Local\Temporary Projects\20900513_AUTOS\bin\Debug\20900513_AUTOS.exe
+C:\Users\Maxi Villa Nueva\AppData\Local\Temporary Projects\20900513_AUTOS\bin\Debug\20900513_AUTOS.pdb
+C:\Users\Maxi Villa Nueva\AppData\Local\Temporary Projects\20900513_AUTOS\bin\Debug\20900513_AUTOS.xml
+C:\Users\Maxi Villa Nueva\AppData\Local\Temporary Projects\20900513_AUTOS\obj\x86\Debug\_20900513_AUTOS.Form1.resources
+C:\Users\Maxi Villa Nueva\AppData\Local\Temporary Projects\20900513_AUTOS\obj\x86\Debug\_20900513_AUTOS.Resources.resources
+C:\Users\Maxi Villa Nueva\AppData\Local\Temporary Projects\20900513_AUTOS\obj\x86\Debug\20900513_AUTOS.vbproj.GenerateResource.Cache
+C:\Users\Maxi Villa Nueva\AppData\Local\Temporary Projects\20900513_AUTOS\obj\x86\Debug\20900513_AUTOS.exe
+C:\Users\Maxi Villa Nueva\AppData\Local\Temporary Projects\20900513_AUTOS\obj\x86\Debug\20900513_AUTOS.xml
+C:\Users\Maxi Villa Nueva\AppData\Local\Temporary Projects\20900513_AUTOS\obj\x86\Debug\20900513_AUTOS.pdb
+C:\Users\Maxi Villa Nueva\Documents\Visual Studio 2010\Projects\20900513_AUTOS\20900513_AUTOS\obj\x86\Debug\20900513_AUTOS.exe
+C:\Users\Maxi Villa Nueva\Documents\Visual Studio 2010\Projects\20900513_AUTOS\20900513_AUTOS\obj\x86\Debug\20900513_AUTOS.xml
+C:\Users\Maxi Villa Nueva\Documents\Visual Studio 2010\Projects\20900513_AUTOS\20900513_AUTOS\obj\x86\Debug\20900513_AUTOS.pdb
+C:\Users\Maxi Villa Nueva\Documents\Visual Studio 2010\Projects\20900513_AUTOS\20900513_AUTOS\bin\Debug\20900513_AUTOS.exe
+C:\Users\Maxi Villa Nueva\Documents\Visual Studio 2010\Projects\20900513_AUTOS\20900513_AUTOS\bin\Debug\20900513_AUTOS.pdb
+C:\Users\Maxi Villa Nueva\Documents\Visual Studio 2010\Projects\20900513_AUTOS\20900513_AUTOS\bin\Debug\20900513_AUTOS.xml
+C:\Users\Maxi Villa Nueva\Documents\Visual Studio 2010\Projects\20900513_AUTOS\20900513_AUTOS\obj\x86\Debug\_20900513_AUTOS.Form1.resources
+C:\Users\Maxi Villa Nueva\Documents\Visual Studio 2010\Projects\20900513_AUTOS\20900513_AUTOS\obj\x86\Debug\_20900513_AUTOS.Resources.resources
+C:\Users\Maxi Villa Nueva\Documents\Visual Studio 2010\Projects\20900513_AUTOS\20900513_AUTOS\obj\x86\Debug\20900513_AUTOS.vbproj.GenerateResource.Cache
