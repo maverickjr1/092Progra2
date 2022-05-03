@@ -1,0 +1,9 @@
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_VUELTAC\201900513_VUELTAC\bin\Debug\201900513_VUELTAC.exe
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_VUELTAC\201900513_VUELTAC\bin\Debug\201900513_VUELTAC.pdb
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_VUELTAC\201900513_VUELTAC\bin\Debug\201900513_VUELTAC.xml
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_VUELTAC\201900513_VUELTAC\obj\x86\Debug\_201900513_VUELTAC.Form1.resources
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_VUELTAC\201900513_VUELTAC\obj\x86\Debug\_201900513_VUELTAC.Resources.resources
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_VUELTAC\201900513_VUELTAC\obj\x86\Debug\201900513_VUELTAC.vbproj.GenerateResource.Cache
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_VUELTAC\201900513_VUELTAC\obj\x86\Debug\201900513_VUELTAC.exe
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_VUELTAC\201900513_VUELTAC\obj\x86\Debug\201900513_VUELTAC.xml
+C:\Users\Maxi Villa Nueva\documents\visual studio 2010\Projects\201900513_VUELTAC\201900513_VUELTAC\obj\x86\Debug\201900513_VUELTAC.pdb
